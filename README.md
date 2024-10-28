@@ -1,3 +1,9 @@
+# KTP Web Development Workshop
+
+## Created by Ethan Ogle
+
+This project was used to teach KTP brothers some basic web development tools and frameworks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
